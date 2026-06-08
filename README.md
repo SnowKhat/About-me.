@@ -1,4 +1,14 @@
-# About-me.
+# Hey! Welcome to my Repository!
+
+<h2> Cyber Security Projects/ Help Desk Labs <h2>
+
+
+<h2> Connect with me <h2>
+  
+[LinkedIn] www.linkedin.com/in/nivaldoguevara
+
+
+[TryHackMe] https://tryhackme.com/p/Snowkatt
 
 
 <h2>Certifications<h2>
