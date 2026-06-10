@@ -2,7 +2,7 @@
 
 <h2> Cyber Security Projects/ Help Desk Labs <h2>
   
-Wi-Fi connectivity issue -
+- [ServiceNow Ticketing Lab - INC000001 Wi-Fi Connectivity Issue](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC000001%20-%20Wi-Fi%20Connectivity%20Issue)
 
 <h2> Connect with me <h2>
   
