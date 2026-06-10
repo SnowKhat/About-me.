@@ -1,7 +1,8 @@
-# Hey! Welcome to my Repository!
+# Hey! Welcome to my Repository! This is a work in progress as I fill in my labs and VMs 
 
 <h2> Cyber Security Projects/ Help Desk Labs <h2>
-
+  
+Wi-Fi connectivity issue -
 
 <h2> Connect with me <h2>
   
