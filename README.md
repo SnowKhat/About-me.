@@ -2,7 +2,7 @@
 
 <h2> Cyber Security Projects/ Help Desk Labs <h2>
   
-- [ Wi-Fi Connectivity Issue](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC000001%20-%20Wi-Fi%20Connectivity%20Issue)
+- [ Wi-Fi Connectivity Issue](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC000001%20-%20Wi-Fi%20Connectivity%20Issue.md)
 
 - [ Password Reset Account Lockout ](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC002%20-%20Password%20Reset%20Account%20Lockout.md) 
 
