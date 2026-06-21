@@ -6,7 +6,7 @@
 
 - [ Password Reset Account Lockout ](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC002%20-%20Password%20Reset%20Account%20Lockout.md) 
 
-- 
+- [Remote Access VPN Connection](https://github.com/SnowKhat/ServiceNow-ticketing-lab/blob/main/documentation/INC003%20Remote%20Access%20VPN.md) 
 <h2> Connect with me <h2>
   
 [LinkedIn] www.linkedin.com/in/nivaldoguevara
