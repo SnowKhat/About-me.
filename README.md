@@ -33,3 +33,7 @@
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a177edc6-cc4b-45cb-ae7d-ca70e9c0b1f7" />
 </a>
 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/nivaldoguevara/5B826FAC9DFB2A3F?sharingId=6A06235E305A3E35" target="_blank">
+<img width="250" height="250" alt="image" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)" />
+</a>
+
